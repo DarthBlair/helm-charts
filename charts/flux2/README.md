@@ -19,7 +19,7 @@ This helm chart is maintained and released by the fluxcd-community on a best eff
 | cli.image | string | `"ghcr.io/fluxcd/flux-cli"` |  |
 | cli.nodeSelector | object | `{}` |  |
 | cli.serviceAccount.automount | bool | `true` |  |
-| cli.tag | string | `"v2.8.1"` |  |
+| cli.tag | string | `"v2.8.2"` |  |
 | cli.tolerations | list | `[]` |  |
 | clusterDomain | string | `"cluster.local"` |  |
 | crds.annotations | object | `{}` | Add annotations to all CRD resources, e.g. "helm.sh/resource-policy": keep |

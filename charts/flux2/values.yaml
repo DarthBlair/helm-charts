@@ -27,7 +27,7 @@ clusterDomain: cluster.local
 
 cli:
   image: ghcr.io/fluxcd/flux-cli
-  tag: v2.8.1
+  tag: v2.8.2
   nodeSelector: {}
   affinity: {}
   tolerations: []
