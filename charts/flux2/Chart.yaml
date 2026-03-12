@@ -2,10 +2,10 @@ annotations:
   artifacthub.io/changes: |
     - "[feat]: Allow overriding namespace"
 apiVersion: v2
-appVersion: 2.8.1
+appVersion: 2.8.2
 description: A Helm chart for flux2
 name: flux2
 sources:
 - https://github.com/fluxcd-community/helm-charts
 type: application
-version: 2.18.0
+version: 2.18.2
